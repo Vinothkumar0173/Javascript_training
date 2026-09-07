@@ -1,0 +1,10 @@
+console.log(Boolean());
+console.log(Boolean(""));
+console.log(Boolean("hello"));
+console.log(Boolean(123));
+console.log(Boolean(true));
+console.log(Boolean(false));
+console.log(Boolean(undefined));
+console.log(Boolean(null));
+console.log(Boolean([]));
+console.log(Boolean({}));
